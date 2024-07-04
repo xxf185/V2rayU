@@ -1,1 +1,1 @@
-# V2rayU
+# V2rayU for Mac客户端
